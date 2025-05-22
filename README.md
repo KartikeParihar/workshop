@@ -1,5 +1,3 @@
-# workshop-
-This repository contains materials from a beginner-friendly workshop I conducted on Neo4j at VijAi Robotics.  We covered the basics of graph databases, how to model data using nodes and relationships, and wrote simple Cypher queries to explore and interact with the data.
 #  Neo4j Workshop @ VijAi Robotics
 
 Welcome to the official repository for the **Neo4j Workshop** conducted at **VijAi Robotics**. This workshop was designed to introduce the basics of **graph databases** using **Neo4j** and help participants understand how to work with connected data.
